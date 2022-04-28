@@ -2473,5 +2473,6 @@ draw = function(){
 	text("Game Removed.\n\nGo look at something quality.",300,300);
 };
 //Hey
-};
+
 println("See here: https://www.khanacademy.org/computer-programming/super-mario-land/5007788831981568");
+};
